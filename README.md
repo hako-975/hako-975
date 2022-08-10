@@ -21,11 +21,20 @@
 - ### [University Pamulang Student - Informatics Engineering](https://informatika.unpam.ac.id)
 - ### [GEMASTIK XIV - Division X Game Development - Most Inspiring Team](https://informatika.unpam.ac.id/berita/detail/universitas-pamulang-meraih-most-inspiring-team-pada-gemastik-xiv)
 
+<hr>
+
 ## Make android games available on Google Play Store:
 - ### [Move the Shape](https://play.google.com/store/apps/details?id=com.HakoLab.MovetheShape)
 - ### [Yumiko Adventure 3D](https://play.google.com/store/apps/details?id=com.HakoLab.YumikoAdventure3D)
 
 <hr>
+
+## I'm listening to the song
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l2hgwbxiaifmognzvu5ecxfvdu&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+<hr>
+
 <a href="https://twitter.com/hauscoding">
   <img align="right" alt="Haus Coding | Twitter" width="21px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7278.png" />
 </a>
@@ -33,10 +42,6 @@
 <a href="https://youtube.com/hauscoding">
   <img align="right" alt="Haus Coding | Twitter" width="21px" src="https://www.youtube.com/s/desktop/e06db45c/img/favicon_144x144.png" />
 </a>
-
-<hr>
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31l2hgwbxiaifmognzvu5ecxfvdu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31l2hgwbxiaifmognzvu5ecxfvdu&cover_image=true&theme=default&bar_color_cover=true)]]
 
 <!--
 **hako-975/hako-975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
