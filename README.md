@@ -3,12 +3,12 @@
 ### [University Pamulang Student - Informatics Engineering](https://informatika.unpam.ac.id)
 ### [GEMASTIK XIV - Division X Game Development - Most Inspiring Team](https://informatika.unpam.ac.id/berita/detail/universitas-pamulang-meraih-most-inspiring-team-pada-gemastik-xiv)
 
-## Make android games available on google play store:
+## Make android games available on Google Play Store:
 - ### [Move the Shape](https://play.google.com/store/apps/details?id=com.HakoLab.MovetheShape)
 - ### [Yumiko Adventure 3D](https://play.google.com/store/apps/details?id=com.HakoLab.YumikoAdventure3D)
 
 <hr>
-# [![Me's GitHub stats](https://github-readme-stats.vercel.app/api?username=hako-975&theme=github_dark)]
+# [![Me's GitHub stats](https://github-readme-stats.vercel.app/api?username=hako-975&theme=github_dark)](https://github.com/rahmatrians/github-readme-stats)
 
 <!--
 **hako-975/hako-975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
