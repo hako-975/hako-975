@@ -1,7 +1,5 @@
 # ようこそ！ 👋
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31l2hgwbxiaifmognzvu5ecxfvdu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31l2hgwbxiaifmognzvu5ecxfvdu&cover_image=true&theme=default&bar_color_cover=true)]]
-
 ### Github Stats
 
 | <a href="https://github.com/hako-975/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hako-975&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Andri's github stats" /></a> | <a href="https://github.com/hako-975/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hako-975&layout=compact&theme=dark&hide_border=true" /></a> |
@@ -35,6 +33,11 @@
 <a href="https://youtube.com/hauscoding">
   <img align="right" alt="Haus Coding | Twitter" width="21px" src="https://www.youtube.com/s/desktop/e06db45c/img/favicon_144x144.png" />
 </a>
+
+<hr>
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31l2hgwbxiaifmognzvu5ecxfvdu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31l2hgwbxiaifmognzvu5ecxfvdu&cover_image=true&theme=default&bar_color_cover=true)]]
+
 <!--
 **hako-975/hako-975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
