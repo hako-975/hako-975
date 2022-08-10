@@ -39,6 +39,10 @@
   <img align="right" alt="Haus Coding | Twitter" width="21px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7278.png" />
 </a>
 
+<a href="https://www.instagram.com/andri_firman_975">
+  <img align="right" alt="Haus Coding | Instagram" width="21px" src="https://www.instagram.com/static/images/ico/apple-touch-icon-180x180-precomposed.png/c06fdb2357bd.png" />
+</a>
+
 <a href="https://youtube.com/hauscoding">
   <img align="right" alt="Haus Coding | Twitter" width="21px" src="https://www.youtube.com/s/desktop/e06db45c/img/favicon_144x144.png" />
 </a>
