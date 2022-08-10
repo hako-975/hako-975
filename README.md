@@ -7,6 +7,7 @@
 - ### [Move the Shape](https://play.google.com/store/apps/details?id=com.HakoLab.MovetheShape)
 - ### [Yumiko Adventure 3D](https://play.google.com/store/apps/details?id=com.HakoLab.YumikoAdventure3D)
 
+<hr>
 # [![Me's GitHub stats](https://github-readme-stats.vercel.app/api?username=hako-975&theme=github_dark)]
 
 <!--
