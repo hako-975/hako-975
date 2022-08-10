@@ -31,7 +31,29 @@
 
 ## I'm listening to the song
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l2hgwbxiaifmognzvu5ecxfvdu&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+      </td>
+      <td>
+        <h2>📈 Top Tracks</h2>
+        <h4><a href="https://music.youtube.com/watch?v=1IBiIX2s_50">1. スピカ • nineline EP • 2016 - Aimer</a></h4>
+        <h4><a href="https://music.youtube.com/watch?v=ade1Z0s2-Fs">2. Daisy • Daisy • 2020 - Kyo Hanabasami</a></h4>
+        <h4><a href="https://music.youtube.com/watch?v=AyXwQ3bZZ7c">3. Kessen spirit • Matatakusekaini Aiwo Yurase • 2020 - CHiCO with HoneyWorks</a></h4>
+        <h4><a href="https://music.youtube.com/watch?v=Y5WZFbNHUH4">4. Precious • Precious • 2005 - Yuna Ito</a></h4>
+        <h4><a href="https://music.youtube.com/watch?v=aL60J2f6Rmo">5. Shall we Dance • Shall we Dance • 2022 - ReoNa</a></h4>
+        <h4><a href="https://music.youtube.com/watch?v=Zc1ZaUnBNpM">6. Loop (feat. WaMi) • Loop • 2021 - Yunosuke</a></h4>
+        <h4><a href="https://music.youtube.com/watch?v=LZy9lpHfBzc">7. プラチナ・パスポート • Cherry Passport • 2017 - Yui Ogura</a></h4>
+        <h4><a href="https://music.youtube.com/watch?v=c35CilEWqeM">8. Kimino Namae • Laika (Special Edition) • 2019 - Chiai Fujikawa</a></h4>
+        <h4><a href="https://music.youtube.com/watch?v=znPyAb2eX9U">9. Tonight Tonight • BANG!!! • 2021 - EGOIST</a></h4>
+        <h4><a href="https://music.youtube.com/watch?v=lopaULFG0Vs">10. Walkin' In My Lane • Walkin' In My Lane • 2022 - milet</a></h4>
+      </td>
+    </tr>
+  </tbody>
+</table> 
 
 <hr>
 
