@@ -12,7 +12,7 @@
 
 | <a href="https://github.com/hako-975/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hako-975&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Andri's github stats" /></a> | <a href="https://github.com/hako-975/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hako-975&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
-#### Top Repositories
+### Top Repositories
 
 <a href="https://github.com/hako-975/unpam-file">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=unpam-file&theme=dark" />
