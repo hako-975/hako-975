@@ -79,7 +79,7 @@
 </a>
 
 <a href="https://discord.gg/hdVYKE9Rk7">
-  <img align="right" alt="Haus Coding | Discord" width="32px" src="icon/dicord.png" />
+  <img align="right" alt="Haus Coding | Discord" width="32px" src="icon/discord.png" />
 </a>
 
 <a href="https://youtube.com/hauscoding">
