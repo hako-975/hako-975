@@ -70,12 +70,16 @@
   <img align="right" alt="Haus Coding | Facebook" width="32px" src="icon/facebook.png" />
 </a>
 
+<a href="https://quora.com/profile/Andri-Firman-Saputra">
+  <img align="right" alt="Haus Coding | Quora" width="32px" src="icon/quora.png" />
+</a>
+
 <a href="https://www.tiktok.com/@haus_coding">
   <img align="right" alt="Haus Coding | Tik Tok" width="32px" src="icon/tiktok.png" />
 </a>
 
-<a href="https://quora.com/profile/Andri-Firman-Saputra">
-  <img align="right" alt="Haus Coding | Quora" width="32px" src="icon/quora.png" />
+<a href="https://open.spotify.com/user/31l2hgwbxiaifmognzvu5ecxfvdu">
+  <img align="right" alt="Haus Coding | Spotify" width="32px" src="icon/spotify.png" />
 </a>
 
 <a href="https://discord.gg/hdVYKE9Rk7">
