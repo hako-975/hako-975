@@ -8,7 +8,7 @@
 - ### [Yumiko Adventure 3D](https://play.google.com/store/apps/details?id=com.HakoLab.YumikoAdventure3D)
 
 <hr>
-# [![Me's GitHub stats](https://github-readme-stats.vercel.app/api?username=hako-975&theme=github_dark)](https://github.com/rahmatrians/github-readme-stats)
+[![Me's GitHub stats](https://github-readme-stats.vercel.app/api?username=hako-975&theme=github_dark)](https://github.com/hako-975/github-readme-stats)
 
 <!--
 **hako-975/hako-975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
