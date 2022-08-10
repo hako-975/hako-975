@@ -5,7 +5,7 @@
 [![Move the Shape](https://play.google.com/store/apps/details?id=com.HakoLab.MovetheShape)]
 [![Yumiko Adventure 3D](https://play.google.com/store/apps/details?id=com.HakoLab.YumikoAdventure3D)]
 
-[![Me's GitHub stats](https://github-readme-stats.vercel.app/api?username=hako-975&theme=github_dark)]
+[Me's GitHub stats](https://github-readme-stats.vercel.app/api?username=hako-975&theme=github_dark)
 
 <!--
 **hako-975/hako-975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
