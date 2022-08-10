@@ -1,5 +1,6 @@
 # ようこそ！ 👋
 ### [Hako Lab Founder](https://hako-lab-dev.blogspot.com)
+### [Haus Coding YouTuber](https://youtube.com/hauscoding)
 ### [University Pamulang Student - Informatics Engineering](https://informatika.unpam.ac.id)
 ### [GEMASTIK XIV - Division X Game Development - Most Inspiring Team](https://informatika.unpam.ac.id/berita/detail/universitas-pamulang-meraih-most-inspiring-team-pada-gemastik-xiv)
 
@@ -11,6 +12,25 @@
 
 | <a href="https://github.com/hako-975/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hako-975&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Andri's github stats" /></a> | <a href="https://github.com/hako-975/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hako-975&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+#### Top Repositories
+
+<a href="https://github.com/hako-975/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/hako-975/hako-975.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=hako-975.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/hauscoding">
+  <img align="right" alt="Haus Coding | Twitter" width="21px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7278.png" />
+</a>
+
+<a href="https://youtube.com/hauscoding">
+  <img align="right" alt="Haus Coding | Twitter" width="21px" src="https://www.youtube.com/s/desktop/e06db45c/img/favicon_144x144.png" />
+</a>
 
 
 <!--
