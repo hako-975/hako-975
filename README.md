@@ -59,15 +59,31 @@
 <hr>
 
 <a href="https://twitter.com/hauscoding">
-  <img align="right" alt="Haus Coding | Twitter" width="21px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7278.png" />
+  <img align="right" alt="Haus Coding | Twitter" width="32px" src="icon/twitter.png" />
 </a>
 
 <a href="https://www.instagram.com/andri_firman_975">
-  <img align="right" alt="Haus Coding | Instagram" width="21px" src="https://www.instagram.com/static/images/ico/apple-touch-icon-180x180-precomposed.png/c06fdb2357bd.png" />
+  <img align="right" alt="Haus Coding | Instagram" width="32px" src="icon/instagram.png" />
+</a>
+
+<a href="https://facebook.com/hako975">
+  <img align="right" alt="Haus Coding | Facebook" width="32px" src="icon/facebook.png" />
+</a>
+
+<a href="https://www.tiktok.com/@haus_coding">
+  <img align="right" alt="Haus Coding | Tik Tok" width="32px" src="icon/tiktok.png" />
+</a>
+
+<a href="https://quora.com/profile/Andri-Firman-Saputra">
+  <img align="right" alt="Haus Coding | Quora" width="32px" src="icon/quora.png" />
+</a>
+
+<a href="https://discord.gg/hdVYKE9Rk7">
+  <img align="right" alt="Haus Coding | Discord" width="32px" src="icon/dicord.png" />
 </a>
 
 <a href="https://youtube.com/hauscoding">
-  <img align="right" alt="Haus Coding | Twitter" width="21px" src="https://www.youtube.com/s/desktop/e06db45c/img/favicon_144x144.png" />
+  <img align="right" alt="Haus Coding | YouTube" width="32px" src="icon/youtube.png" />
 </a>
 
 <!--
