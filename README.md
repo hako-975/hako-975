@@ -5,6 +5,10 @@
 <a href="https://github.com/hako-975/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hako-975&show_icons=true&include_all_commits=true&theme=dark" alt="Andri's github stats">
 </a>
+
+<br>
+<br>
+
 <a href="https://github.com/hako-975/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hako-975&layout=compact&theme=dark">
 </a>
