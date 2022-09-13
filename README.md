@@ -60,6 +60,7 @@
         <h4><a href="https://music.youtube.com/watch?v=znPyAb2eX9U">9. Tonight Tonight • BANG!!! • 2021 - EGOIST</a></h4>
         <h4><a href="https://music.youtube.com/watch?v=lopaULFG0Vs">10. Walkin' In My Lane • Walkin' In My Lane • 2022 - milet</a></h4>
         <h4><a href="https://music.youtube.com/watch?v=mHmB5mhkuP0">11. Harmony of One's Heart • Harmony of One's Heart • 2021 - Diva (Vo.Kairi Yagi)</a></h4>
+        <h4><a href="https://music.youtube.com/watch?v=Sw_sr_OYvbg">12. Brand New Day • Brand New Day • 2014 - Rei Yasuda</a></h4>
       </td>
     </tr>
   </tbody>
