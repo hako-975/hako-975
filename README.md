@@ -18,9 +18,14 @@
 <a href="https://github.com/hako-975/aplikasi-uang-kas-dengan-php-native">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=aplikasi-uang-kas-dengan-php-native&theme=dark" />
 </a>
+<br>
+<br>
 <a href="https://github.com/hako-975/unpam-file">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=unpam-file&theme=dark" />
 </a>
+
+### Visitor Count 😀
+<img src="https://profile-counter.glitch.me/hako-975/count.svg" />
 
 <hr>
 
