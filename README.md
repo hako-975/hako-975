@@ -2,27 +2,26 @@
 
 ### Github Stats 📈
 
-<a href="https://github-readme-stats.vercel.app/api?username=hako-975&show_icons=true&include_all_commits=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hako-975&show_icons=true&include_all_commits=true&theme=dark" alt="Andri's github stats">
+<a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hako-975&show_icons=true&include_all_commits=true&theme=dark">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hako-975&show_icons=true&include_all_commits=true&theme=dark" alt="Andri's github stats">
 </a>
 
 <br>
 <br>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hako-975&layout=compact&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hako-975&layout=compact&theme=dark">
+<a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hako-975&layout=compact&theme=dark">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hako-975&layout=compact&theme=dark">
 </a>
 
 ### Top Repositories 📚
 
-<a href="https://github.com/hako-975/aplikasi-uang-kas-dengan-php-native">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=aplikasi-uang-kas-dengan-php-native&theme=dark" />
-</a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=aplikasi-uang-kas-dengan-php-native)](https://github.com/hako-975/aplikasi-uang-kas-dengan-php-native)
+
 <br>
 <br>
-<a href="https://github.com/hako-975/unpam-file">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=unpam-file&theme=dark" />
-</a>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=unpam-file)](https://github.com/hako-975/unpam-file)
+
 
 ### Visitor Count 😀
 <img src="https://profile-counter.glitch.me/hako-975/count.svg" />
