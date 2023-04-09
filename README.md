@@ -2,6 +2,9 @@
 
 ### Github Stats 📈
 
+[![Me's GitHub stats](https://github-readme-stats.vercel.app/api?username=hako-975&theme=chartreuse-dark)](https://github.com/hako-975/github-readme-stats)
+
+
 <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hako-975&show_icons=true&include_all_commits=true&theme=dark">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hako-975&show_icons=true&include_all_commits=true&theme=dark" alt="Andri's github stats">
 </a>
@@ -15,12 +18,11 @@
 
 ### Top Repositories 📚
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=aplikasi-uang-kas-dengan-php-native)](https://github.com/hako-975/aplikasi-uang-kas-dengan-php-native)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=aplikasi-uang-kas-dengan-php-native&theme=dark)](https://github.com/hako-975/aplikasi-uang-kas-dengan-php-native&theme=dark)
 
 <br>
-<br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=unpam-file)](https://github.com/hako-975/unpam-file)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=unpam-file&theme=dark)](https://github.com/hako-975/unpam-file&theme=dark)
 
 
 ### Visitor Count 😀
