@@ -27,11 +27,11 @@
 
 ### Top Repositories 📚
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=aplikasi-uang-kas-dengan-php-native&theme=dark)](https://github.com/hako-975/aplikasi-uang-kas-dengan-php-native&theme=dark)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=aplikasi-uang-kas-dengan-php-native&theme=dark)](https://github.com/hako-975/aplikasi-uang-kas-dengan-php-native)
 
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=unpam-file&theme=dark)](https://github.com/hako-975/unpam-file&theme=dark)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hako-975&repo=unpam-file&theme=dark)](https://github.com/hako-975/unpam-file)
 
 
 ### Visitor Count 😀
