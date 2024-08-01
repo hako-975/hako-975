@@ -116,6 +116,10 @@
   <img align="right" alt="Haus Coding | YouTube" width="32px" src="icon/youtube.png" />
 </a>
 
+<a href="https://www.linkedin.com/in/andri-firman-saputra-9b66901b1/">
+  <img align="right" alt="Haus Coding | LinkedIn" width="32px" src="icon/linkedin.png" />
+</a>
+
 <!--
 **hako-975/hako-975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
